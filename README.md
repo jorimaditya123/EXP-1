@@ -48,27 +48,30 @@ a.   KVL:
  ![Image Alt](https://github.com/jorimaditya123/EXP-1/blob/8164ba7917a2346cb96528cc57c81be8ab821179/kvl%20diagram.png)
 
 b.  KCL:
- 
+ ![Image Alt](https://github.com/jorimaditya123/EXP-1/blob/15266a409ba62a73b18098457464db4729739b6a/KCL.png)
+ ![Image Alt](https://github.com/jorimaditya123/EXP-1/blob/15266a409ba62a73b18098457464db4729739b6a/kcl%20diagram.png)
 
 Calculation:
 
 a.   KVL:
- 
+ ![Image Alt](https://github.com/jorimaditya123/EXP-1/blob/15266a409ba62a73b18098457464db4729739b6a/kvl%20calculation.png)
+ ![Image Alt](https://github.com/jorimaditya123/EXP-1/blob/15266a409ba62a73b18098457464db4729739b6a/kvl%20cal.png)
 
 
 b.  KCL:
-
+ ![Image Alt](https://github.com/jorimaditya123/EXP-1/blob/15266a409ba62a73b18098457464db4729739b6a/kcl%20cal.png)
+  ![Image Alt](https://github.com/jorimaditya123/EXP-1/blob/15266a409ba62a73b18098457464db4729739b6a/kcl%20calcu.png)
 
 
 
 Tabulation:
 
 a.   KVL:
- 
+  ![Image Alt](https://github.com/jorimaditya123/EXP-1/blob/15266a409ba62a73b18098457464db4729739b6a/kvl%20table.png)
 
 
 b.  KCL:
-
+ ![Image Alt](https://github.com/jorimaditya123/EXP-1/blob/15266a409ba62a73b18098457464db4729739b6a/kcl%20table.png)
 
 
 RESULT:
